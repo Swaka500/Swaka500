@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Derrick Swaka
+- 👀 I’m interested in ...Python, HTML,CSS,JavaScript 
+- 🌱 I’m currently learning ...Software Engineering at Power Learn Project(PLP)
+- 💞️ I’m looking to collaborate on ...Web development 
+- 📫 How to reach me ...Send email to derrickswaka910@gmail.com
