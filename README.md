@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Derrick Mutimba Swaka
+# 👋 Hi, I’m Derrick Swaka from Kenya
 
-### 💼 Aspiring Software Engineer | Customer Experience Specialist | Tech Enthusiast
+### 💼 Aspiring Software Engineer | Customer Experience Specialist | Tech Enthusiast | Cyber Security
 
 ---
 
@@ -8,7 +8,7 @@
 - 🧠 I'm currently sharpening my skills in **Python**, **HTML**, **CSS**, **JavaScript**, and **MongoDB**.
 - 🎓 Completed **Software Engineering Certification** at **Power Learn Project (PLP)**.
 - 🤝 I’m open to collaboration on web-based projects, dashboards, or customer service tools.
-- 📊 I bring over **1 year of experience** in customer support and a strong interest in **risk & compliance** and **tech innovation**.
+- 📊 I bring over **1+ year of experience** in customer support and a strong interest in **risk & compliance** and **tech innovation**.
 - 💌 Reach me at: [derrickswaka910@gmail.com](mailto:derrickswaka910@gmail.com)
 
 ---
